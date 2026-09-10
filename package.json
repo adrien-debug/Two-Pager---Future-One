@@ -50,7 +50,7 @@
     "eslint-config-next": "^14.2.35",
     "puppeteer": "^24.42.0",
     "typescript": "6.0.3",
-    "vitest": "^4.1.6"
+    "vitest": "^4.1.11"
   },
   "browserslist": [
     "last 2 years"
